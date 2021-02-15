@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 lol
+=======
+added content from github itself
+>>>>>>> 29e754fbc25761de8bdbe888f8e9b22e7902b587
